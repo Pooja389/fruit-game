@@ -19,4 +19,4 @@ This is a simple command-line fruit guessing game implemented in Python. The gam
 3. Navigate to the directory where the script is located.
 4. Run the script with the following command:
    ```bash
-   python fruit_guessing_game.py
+   python fruit.py
